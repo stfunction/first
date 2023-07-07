@@ -1,0 +1,44 @@
+body {
+    text-align: center
+}
+
+h1 {
+    color: red;
+}
+
+.kai {
+    padding-top: 70px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    border: 2px solid #F3F3F3;
+    padding: 14px 1px 1px 32px;
+}
+
+.brand img {
+    width: 400px;
+    height: 200px;
+}
+
+.material img {
+    width: 400px;
+    height: 200px;
+}
+
+.design img {
+    width: 400px;
+    height: 200px;
+}
+
+.btitle {
+    text-decoration: underline solid red;
+    padding-top: 100px;
+}
+
+.Conclusion {
+    padding-top: 100px;
+}
